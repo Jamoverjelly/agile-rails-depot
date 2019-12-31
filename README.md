@@ -1,5 +1,5 @@
-# Depot
-_One more shopping cart application_
+# Depot  🛍🛒
+_One more shopping cart application..._
 
 Tracking my work through the tutorial from *Agile Web Development with Rails 5.1*.
 
